@@ -19,6 +19,7 @@ Over the course of this internship, I worked with a 1,000-row sales dataset and 
 
 The polished capstone presentation summarizing the entire project is included in this repository:
 **[ApexPlanet_Task4_Final_Presentation.pptx](./ApexPlanet_Task4_Final_Presentation.pptx)**
+Live Dashboard: [https://app.powerbi.com/groups/me/reports/18286ada-9bda-44a0-ad66-0b683906c637/0f63c2e9f205bb1f7dce?experience=power-bi]
 
 ## 🔑 Key Learnings
 
@@ -43,4 +44,4 @@ The polished capstone presentation summarizing the entire project is included in
 - Task 2: [https://www.linkedin.com/posts/roshani-jaiswal-553b01428_dataanalytics-sql-python-ugcPost-7496840040740986881-Hd8b/?utm_source=share&utm_medium=member_android&rcm=ACoAAGxfzc8BRfvzf6bVSKvXSlSV-zDno3bmNp4]
 - Task 3: [https://www.linkedin.com/posts/roshani-jaiswal-553b01428_dataanalytics-powerbi-apexplanet-ugcPost-7497998099794239506-_gJ0/?utm_source=share&utm_medium=member_android&rcm=ACoAAGxfzc8BRfvzf6bVSKvXSlSV-zDno3bmNp4]
 - Task 4: [https://www.linkedin.com/posts/roshani-jaiswal-553b01428_dataanalytics-powerbi-python-ugcPost-7504534326651342849-m4Ij/?utm_source=social_share_send&u]
-- Task 5 (Portfolio Reflection)
+  
